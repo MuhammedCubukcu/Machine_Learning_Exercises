@@ -7,3 +7,4 @@
 * Polynomial Regression
 * Support Vector Regression(SVR)
 * Desicion Tree Regression
+* Random Forest Regression
