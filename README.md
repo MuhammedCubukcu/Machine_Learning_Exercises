@@ -8,3 +8,6 @@
 * Support Vector Regression(SVR)
 * Desicion Tree Regression
 * Random Forest Regression
+
+### Classification
+* Logistic Regression
