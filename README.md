@@ -15,3 +15,4 @@
 * Support Vector Machine (SVM)
 * Naive Bayes
 * Decision Tree Classification
+* Random Forest Classification
