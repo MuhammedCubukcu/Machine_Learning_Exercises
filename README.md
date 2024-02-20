@@ -12,4 +12,4 @@
 ### Classification
 * Logistic Regression
 * K-Nearest Neighbors (K-NN)
-* 
+* Support Vector Machine (SVM)
